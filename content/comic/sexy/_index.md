@@ -1,6 +1,6 @@
 +++
 [[cascade]]
-title = 'Sexy'
+title = '$exy $ells'
 chapterID = 'sexy'
 
 [_build]

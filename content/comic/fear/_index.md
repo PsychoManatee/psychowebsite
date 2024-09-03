@@ -1,6 +1,6 @@
 +++
 [[cascade]]
-title = 'Fear'
+title = 'Fear of Death'
 chapterID = 'fear'
 
 [_build]

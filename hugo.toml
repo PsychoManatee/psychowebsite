@@ -3,13 +3,13 @@ languageCode = 'en-us'
 title = 'Psycho Manatee'
 
 [params]
-description = 'A minimal webcomic template built with Bootstrap and Hugo.'
+description = 'Insane and Deathly Comics.'
 dateFormat = 'Jan 2, 2006'
 comicResizeWidth = 1280
 comicThumbResizeWidth = 300
 imgFormat = 'jpg'
 [params.author]
-name = 'Your Name'
+name = 'Tina Michelle'
 
 [taxonomies]
 

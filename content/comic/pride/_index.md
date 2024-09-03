@@ -1,6 +1,6 @@
 +++
 [[cascade]]
-title = 'Pride'
+title = 'Pride Month'
 chapterID = 'pride'
 
 [_build]

@@ -1,6 +1,6 @@
 +++
 [[cascade]]
-title = 'Businessop'
+title = 'Business Opportunity'
 chapterID = 'businessop'
 
 [_build]

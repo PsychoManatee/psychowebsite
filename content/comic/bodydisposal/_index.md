@@ -1,6 +1,6 @@
 +++
 [[cascade]]
-title = 'Bodydisposal'
+title = 'Body Disposal'
 chapterID = 'bodydisposal'
 
 [_build]

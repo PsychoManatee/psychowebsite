@@ -1,6 +1,6 @@
 +++
 [[cascade]]
-title = 'Richy'
+title = 'New Face'
 chapterID = 'Richy'
 
 [_build]

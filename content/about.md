@@ -2,12 +2,12 @@
 title = 'About'
 +++
 
-**Howdy all.** I am Tina Michelle, creator of Psycho Manatee.
-I am an artist and comic creator.
+**Welcome to the Insane Aquarium.** I'm Tina Michelle, creator of Psycho Manatee.
+I have a great interest in the macabre and comical, and my goal with art is to merge the two into a wonderous, horrifying, hilarious mess. Find a seat and stay awhile. This is a welcoming space for weirdos.
 
 ## Socials
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Shop](https://psycho-manatee-shop.fourthwall.com/)
+[Patreon](https://www.patreon.com/psychomanatee)
+[Instagram](https://www.instagram.com/psycho_manatee/)
+[Tumblr](https://www.tumblr.com/psychomanatee?source=share)

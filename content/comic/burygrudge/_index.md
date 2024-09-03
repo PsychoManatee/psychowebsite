@@ -1,6 +1,6 @@
 +++
 [[cascade]]
-title = 'Burygrudge'
+title = 'Burying Grudges'
 chapterID = 'burygrudge'
 
 [_build]

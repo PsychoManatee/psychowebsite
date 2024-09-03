@@ -1,6 +1,6 @@
 +++
 [[cascade]]
-title = 'Eternaldeal'
+title = 'Eternal Deal'
 chapterID = 'eternaldeal'
 
 [_build]

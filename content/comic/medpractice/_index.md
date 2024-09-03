@@ -1,6 +1,6 @@
 +++
 [[cascade]]
-title = 'Medpractice'
+title = 'Medical Practices'
 chapterID = 'medpractice'
 
 [_build]
