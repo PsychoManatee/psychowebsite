@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://psychomanatee.pages.dev/'
 languageCode = 'en-us'
-title = 'Mini Webcomic'
+title = 'Psycho Manatee'
 
 [params]
 description = 'A minimal webcomic template built with Bootstrap and Hugo.'
