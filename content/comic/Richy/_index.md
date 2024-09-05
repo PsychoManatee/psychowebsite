@@ -1,7 +1,7 @@
 +++
 [[cascade]]
 title = 'New Face'
-chapterID = 'Richy'
+chapterID = 'richy'
 
 [_build]
 render = 'never'
