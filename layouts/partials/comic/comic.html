@@ -1,5 +1,5 @@
 {{$page := partial "comic/get-comic-page.html" .}}
-{{$firstPageOfChapterURL := absURL (printf "comic/%s/1/" $page.chapter)}}
+{{$firstPageOfChapterURL := absURL (printf "comic/%s/001/" $page.chapter)}}
 {{$comicImg := $page.comicImgRaw.Resize (printf "%dx %s" site.Params.comicResizeWidth site.Params.imgFormat)}}
 
 {{partial "comic/nav.html" .}}
